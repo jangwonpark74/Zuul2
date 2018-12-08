@@ -8,3 +8,6 @@
 
 ## Zuul 2
   - [going Non-blocking](https://arthur.gonigberg.com/2017/10/02/zuul-2-non-blocking/)
+
+## Spring Zuul Configuration
+  - [Configuration Example](https://www.anaplan.com/blog/using-zuul-in-production/)
